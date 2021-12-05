@@ -41,6 +41,7 @@ public class J1SP0104 {
             }
         }
         //hung le manh he 153708
+        // 86 lac long quan, phương DV
         if (hs.size() == 0) {
             System.out.println("Don't have any word contain keyword!");
         } else {
