@@ -40,6 +40,7 @@ public class J1SP0104 {
                 }
             }
         }
+        //hung le manh he 153708
         if (hs.size() == 0) {
             System.out.println("Don't have any word contain keyword!");
         } else {
